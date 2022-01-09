@@ -1,0 +1,2 @@
+# muhasaba
+Manage accounting yourself
